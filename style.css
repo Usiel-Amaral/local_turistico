@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  padding: 88px 80px 0px 80px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  width: 90%;
+}
+
+.Title div {
+  color: #E1624F;
+  text-transform: uppercase;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #1B1B1B;
+}
+
+section {
+  margin: 40px 0 40px 0;
+}
+
+#DescriptionImage p {
+  text-align: center;
+}
+
+section p {
+  color: #333333;
+  margin: 24px 0 40px 0;
+}
+
+hr {
+  border-color: #D9D9D9;
+  line-height: 1px;
+}
+
+#TitleList {
+  margin-top: 64px;
+}
+
+.CardTravel, #Description p{
+  margin-bottom: 48px;
+}
+
+.ContentCard {
+  margin-top: 20px;
+}
+
+.ContentCard p, #Description {
+  margin: 0px;
+}
+
+.ContentCard p p{
+  font-weight: bold;
+  margin-left: 4px;
+  color: #0C51A7;
+}
+
+h3{
+  margin: 0 0 4px 8px;
+}
+
+ul li {
+  margin-left: 26px;
+  font-weight: bold;
+}
+
+ul li:nth-child(1) {
+  color: #591B98;
+}
+
+ul li:nth-child(2) {
+  color: #E5245E;
+}
+
+ul li:nth-child(3) {
+  color: #E95E10;
+}
+
+
+img {
+  width: 100%;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #333333;
+  padding-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+  height: 16px;
+}
+
